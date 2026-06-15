@@ -13,17 +13,13 @@
 
 [job search assistant demo](https://github.com/user-attachments/assets/3cb23ee2-5128-4045-adfb-c90ad5b16611)
 
-<!-- Temporarity commented test suite branch and testing CI/CD is not working, doing manual testing as of now -->
-<!-- [![Python Test Suite](https://github.com/surapuramakhil-org/Job_search_assistant/actions/workflows/py_test.yml/badge.svg?branch=main)](https://github.com/surapuramakhil-org/Job_search_assistant/actions/workflows/py_test.yml) -->
-
-[![Discord](https://img.shields.io/discord/1300208460788400159?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Discord)](https://discord.gg/MYYwG8JyrQ)
 
 **🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.**
 
 </div>
 
 [Special thanks](#special-thanks) 
-
+The 
 job search assistant is continuously evolving, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make job search assistant a powerful tool for job seekers worldwide.
 
 [Project Management Documentation](docs/project_management.md)
@@ -45,7 +41,7 @@ job search assistant is continuously evolving, and your feedback, suggestions, a
 
 ## Introduction
 
-job search assistant is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage. By leveraging the power of automation and artificial intelligence, job search assistant enables users to apply to a vast number of relevant positions efficiently and in a personalized manner, maximizing their chances of landing their dream job.
+Job Search Assistant is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage. By leveraging the power of automation and artificial intelligence, a job search assistant enables users to apply to a vast number of relevant positions efficiently and in a personalized manner, maximizing their chances of landing their dream job.
 
 ### The Challenge of Modern Job Hunting
 
@@ -53,7 +49,7 @@ In the digital age, the job search landscape has undergone a dramatic transforma
 
 ### Enter job search assistant: Your Personal Job Search Assistant
 
-job search assistant steps in as a game-changing solution to these challenges. It's not just a tool; it's your tireless, 24/7 job search partner. By automating the most time-consuming aspects of the job search process, it allows you to focus on what truly matters - preparing for interviews and developing your professional skills.
+Job Search Assistant steps in as a game-changing solution to these challenges. It's not just a tool; it's your tireless, 24/7 job search partner. By automating the most time-consuming aspects of the job search process, it allows you to focus on what truly matters - preparing for interviews and developing your professional skills.
 
 ## Features
 
@@ -225,75 +221,8 @@ After copying, open the `.env` file and fill in the required values. Ensure you 
 
 ### For Developers
 
-- [Contribution Guidelines](docs/CONTRIBUTING.md)
-
 - [Lang Chain Developer Documentation](https://python.langchain.com/v0.2/docs/integrations/components/)
 
 - [Workflow diagrams](docs/workflow_diagrams.md)
-
-## Supporting This Project
-
-Supporting job search assistant helps us continue to develop and improve this valuable tool for job seekers worldwide. Here are a few ways you can contribute:
-
-1. **Financial Contributions**: Consider making a donation. Your contributions help cover the costs of development, hosting, and other expenses. You can donate via [Giveth](https://giveth.io/project/job_hunt_assistant). Financial support enables faster development and more frequent releases.
-
-2. **Spread the Word**: Share this project with your network. Whether it's through social media, blog posts, or word of mouth, spreading the word helps us reach more people who could benefit from job search assistant.
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/tweet?text=Check%20out%20this%20awesome%20job%20search%20assistant%20tool%20powered%20by%20AI!%20Automate%20your%20job%20applications%20and%20land%20your%20dream%20job%20faster.%20%23JobSearchAssistant%20%23AI%20%23JobHunt%20%23Automation&url=https://github.com/surapuramakhil-org/Job_hunt_assistant)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/surapuramakhil-org/Job_hunt_assistant)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/surapuramakhil-org/Job_hunt_assistant)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/surapuramakhil-org/Job_hunt_assistant&title=Check%20out%20this%20awesome%20job%20search%20assistant%20tool%20powered%20by%20AI!)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Check%20out%20this%20awesome%20job%20search%20assistant%20tool%20powered%20by%20AI!%20Automate%20your%20job%20applications%20and%20land%20your%20dream%20job%20faster.%20%23JobSearchAssistant%20%23AI%20%23JobHunt%20%23Automation%20https://github.com/surapuramakhil-org/Job_hunt_assistant)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/share/url?url=https://github.com/surapuramakhil-org/Job_hunt_assistant&text=Check%20out%20this%20awesome%20job%20search%20assistant%20tool%20powered%20by%20AI!%20Automate%20your%20job%20applications%20and%20land%20your%20dream%20job%20faster.%20%23JobSearchAssistant%20%23AI%20%23JobHunt%20%23Automation)
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/intent/compose?text=Check%20out%20this%20awesome%20job%20search%20assistant%20tool%20powered%20by%20AI!%20Automate%20your%20job%20applications%20and%20land%20your%20dream%20job%20faster.%20%23JobSearchAssistant%20%23AI%20%23JobHunt%20%23Automation%20https://github.com/surapuramakhil-org/Job_hunt_assistant)
-
-
-</div>
-
-3. **Star the Repository**: If you find this project useful, please star the repository on GitHub. It helps increase the project's visibility and shows your appreciation.
-
-4. **Join the Community**: Join our [Discord](https://discord.gg/MYYwG8JyrQ) to connect with other users and contributors. Your participation helps build a supportive community around the project.
-
-5. **Report Issues / Feature requests**: If you encounter any bugs or have suggestions for improvements, please open an issue on [GitHub](https://github.com/surapuramakhil-org/Job_hunt_assistant/issues). Your feedback is crucial for the project's growth.
-
-6. **Contribute Code**: If you're a developer, consider contributing code to the project. Check out our [Contribution Guidelines](docs/CONTRIBUTING.md), [PM docs](/docs/project_management.md)  for more information on how to get started.
-
-Your support is greatly appreciated and helps us make job search assistant a powerful tool for job seekers everywhere.
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=surapuramakhil-org/Job_hunt_assistant&type=Date)](https://star-history.com/#surapuramakhil-org/Job_hunt_assistant&Date)
-
-If you like the project please star ⭐ the repository!
-
-[![Stargazers repo roster for @surapuramakhil-org/Job_search_assistant](https://reporoster.com/stars/surapuramakhil-org/Job_search_assistant)](https://github.com/surapuramakhil-org/Job_search_assistant/stargazers)
-
-## Special Thanks
-[![Contributors](https://img.shields.io/github/contributors/surapuramakhil-org/Job_hunt_assistant)](https://github.com/surapuramakhil-org/Job_hunt_assistant/graphs/contributors)
-
-<a href="https://github.com/surapuramakhil-org/Job_hunt_assistant/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=surapuramakhil-org/Job_hunt_assistant" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-![Alt](https://repobeats.axiom.co/api/embed/ea4ca3eb91099b18374ddc89b207c0c5d04fdc64.svg "Repobeats analytics image")
-
-## License
-
-This project is licensed under the AGPL License. Documentation is licensed under CC BY - see the [AGPL LICENSE](LICENSE) and [CC BY LICENSE](docs/LICENSE) files for details.
-
-The AGPL License requires that any derivative work must also be open source and distributed under the same license.
-
-The CC BY License permits others to distribute, remix, adapt, and build upon your work, even for commercial purposes, as long as they credit you for the original creation. 
- 
-
-## Disclaimer
-
-This tool, job search assistant, is intended for use at your own risk. The creators / maintainers / contributors assume no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
 
 [Back to top 🚀](#top)
